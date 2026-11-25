@@ -20,7 +20,7 @@ This GIF cycles through actual interface captures from the 24 November 2026 chec
 - Supports Keep/Skip votes, dates and a draft itinerary based on the group's choices.
 - Opens provider booking/search pages. It does not claim that a link is a confirmed reservation or that unconfigured integrations return live availability.
 
-The iOS companion includes a share extension. Its latest Instagram share screen was confirmed working by the founder on a physical iPhone; this is not an App Store release or a completed native acceptance suite.
+The iOS companion includes a share extension. Its latest Instagram share screen was confirmed working by me on a physical iPhone; this is not an App Store release or a completed native acceptance suite.
 
 ## Repository map
 

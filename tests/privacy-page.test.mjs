@@ -61,7 +61,7 @@ test('retention and deletion describe current cleanup instead of an unimplemente
  assert.match(text,/Completed and failed records older than 7 days are cleared on a new job submission/);
  assert.match(text,/Metadata remains for at least 14 days, and while a recent analysis needs it/);
  assert.match(text,/those requests are handled manually/);
- assert.match(text,/Siddarth Nair \(Founder\).*privacy@example\.com/);
+ assert.match(text,/Siddarth Nair.*privacy@example\.com/);
  assert.match(page,/href="mailto:privacy@example\.com"/);
  assert.match(text,/Siddarth coordinates any necessary cache, processor, provider or device cleanup/);
  assert.match(text,/Siddarth is responsible for arranging, carrying out and checking the test-wide cleanup/);

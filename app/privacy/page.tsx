@@ -81,7 +81,7 @@ export default function PrivacyPage(){
 
    <section aria-labelledby="p-delete"><h2 id="p-delete">Deleting your data</h2><ul>
     <li><strong>Bucket owners:</strong> open the bucket and choose Delete this bucket. It removes the reels, places, votes, place fixes, invite links, trip details and the bucket’s events straight away, plus the name and events of anyone who isn’t in another bucket.</li>
-    <li><strong>Anyone else:</strong> remove reels you added with Remove. For other deletion requests, contact <strong>Siddarth Nair (Founder)</strong> at <a href="mailto:privacy@example.com">privacy@example.com</a>; those requests are handled manually. Siddarth coordinates any necessary cache, processor, provider or device cleanup and explains anything that remains.</li>
+    <li><strong>Anyone else:</strong> remove reels you added with Remove. For other deletion requests, contact <strong>Siddarth Nair</strong> at <a href="mailto:privacy@example.com">privacy@example.com</a>; those requests are handled manually. Siddarth coordinates any necessary cache, processor, provider or device cleanup and explains anything that remains.</li>
     <li>Deleting a bucket does not remove the separate analysis cache, video service jobs or uploads, global place matches, provider records or your device’s personal library. Their retention is described above. Clear browser data to remove the personal library and cookies from that browser; this does not clear the iPhone app’s native files.</li>
     <li>There is no automatic end-of-test deletion for shared test data. Siddarth is responsible for arranging, carrying out and checking the test-wide cleanup, and communicating its date and scope to testers.</li>
    </ul></section>
