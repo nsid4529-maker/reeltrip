@@ -1,0 +1,156 @@
+[
+  {
+    "id": "fitnomads-repeat-villa",
+    "title": "The Villa by Contemporary Ceylon",
+    "place": "Arrival stop · exact location to confirm",
+    "category": "Stays",
+    "source": "fitnomads-repeat",
+    "second": 19,
+    "quote": "The Villa by Contemporary Ceylon",
+    "kind": "Venue named in video",
+    "query": "The Villa by Contemporary Ceylon Arrival stop · exact location to confirm",
+    "providers": [
+      "Booking.com"
+    ],
+    "note": "Named on the hotel card at 19s, recommended for a late arrival. Confirm location and transfer time."
+  },
+  {
+    "id": "fitnomads-repeat-kai",
+    "title": "Kai Ahangama — Rooftop Cafe and Bar",
+    "place": "Ahangama",
+    "category": "Food",
+    "source": "fitnomads-repeat",
+    "second": 40,
+    "quote": "Kai Ahangama - Rooftop Cafe and Bar",
+    "kind": "Venue named in video",
+    "query": "Kai Ahangama — Rooftop Cafe and Bar Ahangama",
+    "providers": [
+      "OpenTable"
+    ],
+    "note": "Named by the creator and checked against on-screen text. Exact location, current operation and reservation-provider participation are unverified."
+  },
+  {
+    "id": "fitnomads-repeat-cactus",
+    "title": "Cactus",
+    "place": "Ahangama area",
+    "category": "Food",
+    "source": "fitnomads-repeat",
+    "second": 41,
+    "quote": "Cactus",
+    "kind": "Venue named in video",
+    "query": "Cactus Ahangama area",
+    "providers": [
+      "OpenTable"
+    ],
+    "note": "Named by the creator and checked against on-screen text. Exact location, current operation and reservation-provider participation are unverified."
+  },
+  {
+    "id": "fitnomads-repeat-raas",
+    "title": "Raa’s",
+    "place": "Hiriketiya",
+    "category": "Food",
+    "source": "fitnomads-repeat",
+    "second": 52,
+    "quote": "Raa’s",
+    "kind": "Venue named in video",
+    "query": "Raa’s Hiriketiya",
+    "providers": [
+      "OpenTable"
+    ],
+    "note": "Named by the creator and checked against on-screen text. Exact location, current operation and reservation-provider participation are unverified."
+  },
+  {
+    "id": "fitnomads-repeat-smoke",
+    "title": "Smoke & Bitters",
+    "place": "Hiriketiya",
+    "category": "Food",
+    "source": "fitnomads-repeat",
+    "second": 54,
+    "quote": "Smoke and bitters",
+    "kind": "Venue named in video",
+    "query": "Smoke & Bitters Hiriketiya",
+    "providers": [
+      "OpenTable"
+    ],
+    "note": "Named by the creator and checked against on-screen text. Exact location, current operation and reservation-provider participation are unverified."
+  },
+  {
+    "id": "fitnomads-repeat-malkoha",
+    "title": "Malkoha",
+    "place": "Hiriketiya",
+    "category": "Food",
+    "source": "fitnomads-repeat",
+    "second": 54,
+    "quote": "Malkoha",
+    "kind": "Venue named in video",
+    "query": "Malkoha Hiriketiya",
+    "providers": [
+      "OpenTable"
+    ],
+    "note": "Named by the creator and checked against on-screen text. Exact location, current operation and reservation-provider participation are unverified."
+  },
+  {
+    "id": "fitnomads-repeat-bridge",
+    "title": "Nine Arch Bridge",
+    "place": "Ella",
+    "category": "Experiences",
+    "source": "fitnomads-repeat",
+    "second": 79,
+    "quote": "Nine arches bridge",
+    "kind": "Place named in video",
+    "query": "Nine Arch Bridge Ella",
+    "providers": [
+      "Viator",
+      "GetYourGuide"
+    ],
+    "note": "Suggested during 2–3 nights in Ella. A guided tour is optional."
+  },
+  {
+    "id": "fitnomads-repeat-train",
+    "title": "Ella → Kandy train",
+    "place": "Hill country",
+    "category": "Transport",
+    "source": "fitnomads-repeat",
+    "second": 82,
+    "quote": "Train to Kandy",
+    "kind": "Route named in video",
+    "query": "Ella → Kandy train Hill country",
+    "providers": [
+      "Viator",
+      "GetYourGuide"
+    ],
+    "note": "Creator’s route recommendation. Confirm current timetable, reserved seats and onward travel to Sigiriya."
+  },
+  {
+    "id": "fitnomads-repeat-yala",
+    "title": "Yala National Park",
+    "place": "Sri Lanka",
+    "category": "Experiences",
+    "source": "fitnomads-repeat",
+    "second": 72,
+    "quote": "Yala national park OR wilpattu",
+    "kind": "Place named in video",
+    "query": "Yala National Park Sri Lanka",
+    "providers": [
+      "Viator",
+      "GetYourGuide"
+    ],
+    "note": "One safari alternative. The creator prefers it outside peak season; availability is unverified."
+  },
+  {
+    "id": "fitnomads-repeat-wilpattu",
+    "title": "Wilpattu National Park",
+    "place": "Sri Lanka",
+    "category": "Experiences",
+    "source": "fitnomads-repeat",
+    "second": 72,
+    "quote": "Yala national park OR wilpattu",
+    "kind": "Place named in video",
+    "query": "Wilpattu National Park Sri Lanka",
+    "providers": [
+      "Viator",
+      "GetYourGuide"
+    ],
+    "note": "Alternative to Yala, not an extra mandatory safari. The creator’s peak-season preference; check the much different transfer route."
+  }
+]

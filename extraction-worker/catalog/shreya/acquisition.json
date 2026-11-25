@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.instagram.com/reel/DYJiRq2qMuA",
+  "platform": "instagram",
+  "method": "instagram_direct",
+  "acquired_at": "2026-11-15T18:19:43.144528+00:00",
+  "sha256": "bc45a644a88f8d8ec9f29b2ad6e751a27fadb6df088457625c33f6e7e3064949",
+  "bytes": 23349047,
+  "duration_seconds": 80.292,
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    }
+  ],
+  "audio_present": true,
+  "validation": {
+    "probe_passed": true,
+    "full_video_decode_passed": true,
+    "full_audio_decode_passed": true
+  },
+  "source_association": "instagram_returned_shortcode_and_numeric_id_checked",
+  "provider": {
+    "name": "Instagram direct",
+    "method": "instagram_anonymous_web_query",
+    "source_shortcode": "DYJiRq2qMuA",
+    "media_id": "3893794100665174912",
+    "author_handle": "shreyavalecha",
+    "caption": "A 3-4 day trip in Sri Lanka just for the vibes and party? This is your ultimate itinerary for that! All researched by my friends and they did quite a fab job - i enjoyed every bit of this time, and well why gatekeep this from you?\n.\n(Sri Lanka, Itinerary, Friends, Bach trip, Ahangama)",
+    "taken_at": 1778396823,
+    "metrics": {
+      "like_count": 15449,
+      "comment_count": 125
+    },
+    "metrics_source": "Instagram response at retrieval; absent counts remain unknown",
+    "reported_has_audio": true,
+    "resolved_at": "2026-11-15T18:19:35.996091+00:00",
+    "source_identity_checked": true,
+    "browser_credentials_used": false,
+    "third_party_downloader_used": false,
+    "official_api": false,
+    "quality": "largest_declared_progressive_variant_or_first_when_unspecified"
+  },
+  "analysis_started": false,
+  "gemini_inline_size_compatible": false
+}

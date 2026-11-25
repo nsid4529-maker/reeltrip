@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.tiktok.com/@jenseymour0/video/7567417996352834838",
+  "platform": "tiktok",
+  "method": "tikwm_public_resolver",
+  "acquired_at": "2026-11-15T18:16:31.338135+00:00",
+  "sha256": "6c6be3d4366164a0cbb7f996e6bcf44c238e5e337b5c1b60fdc8dfb843a2f6e5",
+  "bytes": 19235356,
+  "duration_seconds": 50.735,
+  "streams": [
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    },
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 576,
+      "height": 1024
+    }
+  ],
+  "audio_present": true,
+  "validation": {
+    "probe_passed": true,
+    "full_video_decode_passed": false,
+    "full_audio_decode_passed": false
+  },
+  "source_association": "third_party_resolver_id_checked",
+  "provider": {
+    "name": "TikWM",
+    "video_id": "7567417996352834838",
+    "author_handle": "jenseymour0",
+    "title": "How we spent 3 days in Ella, Sri Lanka \ud83d\udccd \u2022Waterfall tour with a tuktuk, we just asked a guy parked up if he could take us to 3 waterfalls and he waited at each for us \u2022 Drinks at Cafe Soul overlooking Nine Arch Bridge  \u2022 Little Adam\u2019s Peak Hike and Ravana Pool Club @Ravanapoolclub  @Flying Ravana  #uktravel #seasia #backpacking #srilanka #travelling ",
+    "resolved_at": "2026-11-15T18:16:30.413565+00:00",
+    "metrics": {
+      "play_count": 60936,
+      "digg_count": 961,
+      "comment_count": 12,
+      "share_count": 573,
+      "collect_count": 1544
+    },
+    "metrics_source": "third_party; cache age unknown",
+    "requested_quality": "standard",
+    "browser_credentials_used": false
+  },
+  "analysis_started": false,
+  "gemini_inline_size_compatible": false
+}

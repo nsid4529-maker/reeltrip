@@ -1,0 +1,114 @@
+/* A single navigation and trip context across the guest workspace. */
+.reel-app .topbar.workspace-header {
+  display: grid;
+  grid-template-areas: "brand navigation context help";
+  grid-template-columns: auto minmax(150px, 1fr) minmax(240px, 350px) auto;
+  align-items: center;
+  gap: 18px;
+  min-height: 86px;
+  padding: 14px 30px;
+  background: #fffefb;
+  border-bottom-color: #d8e0d2;
+  z-index: 20;
+}
+.workspace-header > .brand { grid-area: brand; width: max-content; color: #263e31; }
+.reel-app .workspace-header .workspace-nav {
+  grid-area: navigation;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: auto;
+  margin: 0;
+  width: auto;
+  flex-wrap: nowrap;
+}
+.workspace-header .workspace-nav-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  min-height: 42px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  color: #4e6251;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.workspace-header .workspace-nav-link:hover { background: #edf2e8; color: #254d38; }
+.workspace-header .workspace-nav-link.is-current { background: #e7efdf; color: #284f38; }
+.workspace-header .workspace-context { grid-area: context; display: flex; align-items: center; gap: 14px; min-width: 0; }
+.workspace-header .workspace-trip-picker { flex: 1; min-width: 0; margin: 0; gap: 4px; }
+.workspace-header .workspace-trip-picker label { width: 100%; min-width: 0; gap: 4px; color: #4e6251; font-size: 11px; }
+.workspace-header .workspace-trip-picker select {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 40px;
+  padding: 8px 28px 8px 11px;
+  border-color: #b8c7b0;
+  color: #304b38;
+  font-size: 13px;
+  text-overflow: ellipsis;
+  background-color: #f5f8f0;
+}
+.workspace-header .workspace-trip-picker select:disabled { color: #596653; background-color: #e9eee3; opacity: 1; cursor: wait; }
+.workspace-header .workspace-trip-picker .interest-error { width: 100%; font-size: 12px; color: #8a3c30; }
+.workspace-header .workspace-new-trip,
+.workspace-header .workspace-help { display: inline-flex; align-items: center; gap: 4px; min-height: 44px; font-size: 12px; font-weight: 650; color: #365b40; white-space: nowrap; text-decoration: none; }
+.workspace-header .workspace-new-trip { margin-top: 15px; }
+.workspace-header .workspace-help { grid-area: help; color: #53614c; }
+.workspace-header .workspace-new-trip:hover,
+.workspace-header .workspace-help:hover { text-decoration: underline; text-underline-offset: 4px; }
+.workspace-header :is(a, select):focus-visible { outline: 3px solid #447451; outline-offset: 3px; }
+@media (max-width: 980px) {
+  .reel-app .topbar.workspace-header { grid-template-areas: "brand navigation help" "context context context"; grid-template-columns: auto 1fr auto; gap: 8px 20px; padding: 12px 24px; }
+  .workspace-header .workspace-context { justify-self: end; width: min(100%, 390px); }
+  .workspace-header .workspace-trip-picker label { display: flex; align-items: center; gap: 10px; }
+  .workspace-header .workspace-trip-picker select { flex: 1; width: 0; }
+  .workspace-header .workspace-new-trip { margin-top: 0; }
+}
+@media (max-width: 650px) {
+  .reel-app .topbar.workspace-header { grid-template-areas: "brand help" "navigation navigation" "context context"; grid-template-columns: minmax(0, 1fr) auto; gap: 5px 12px; padding: 10px 16px; }
+  .workspace-header > .brand { font-size: 25px; }
+  .workspace-header > .brand svg { width: 23px; }
+  .reel-app .workspace-header .workspace-nav { justify-content: flex-start; gap: 8px; width: 100%; }
+  .workspace-header .workspace-nav-link { min-height: 40px; padding: 8px 11px; font-size: 13px; }
+  .workspace-header .workspace-context { justify-self: stretch; width: 100%; gap: 12px; }
+  .workspace-header .workspace-trip-picker label { font-size: 12px; }
+  .workspace-header .workspace-help { min-height: 36px; font-size: 11px; }
+}
+@media (max-width: 360px) {
+  .reel-app .topbar.workspace-header { padding-inline: 12px; }
+  .workspace-header .workspace-nav-link { padding-inline: 8px; }
+}
+
+.bucket-navigation { width: 100%; padding: 22px max(24px, calc((100% - 1024px) / 2)); background: #f2f6ec; border-bottom: 1px solid #d8e0d2; }
+.bucket-context-heading { display: flex; justify-content: space-between; align-items: end; gap: 12px 24px; flex-wrap: wrap; }
+.bucket-context-heading > div { display: grid; gap: 7px; min-width: 0; }
+.bucket-context-heading strong { font-size: 20px; line-height: 1.35; color: #2c4a36; overflow-wrap: anywhere; }
+.bucket-context-heading .eyebrow { font-size: 10px; color: #506447; }
+.bucket-context-heading p { color: #53634c; font-size: 12px; line-height: 1.6; overflow-wrap: anywhere; }
+.bucket-section-nav { display: flex; gap: 6px; margin-top: 18px; max-width: 100%; overflow-x: auto; padding: 4px 3px 8px; scrollbar-width: thin; }
+.bucket-section-nav a { display: inline-flex; align-items: center; justify-content: center; min-height: 42px; padding: 10px 12px; border: 1px solid transparent; border-radius: 9px; color: #465d43; font-size: 12px; font-weight: 600; white-space: nowrap; text-decoration: none; }
+.bucket-section-nav a:hover { background: #e7eedf; }
+.bucket-section-nav a[aria-current="page"] { color: #284f38; background: #fffefb; border-color: #b5c8aa; box-shadow: 0 2px 5px #2d4f3010; }
+.bucket-navigation a:focus-visible { outline: 3px solid #447451; outline-offset: 2px; }
+.bucket-navigation-status { font-size: 13px; color: #435a40; line-height: 1.6; }
+.bucket-context-empty { display: flex; align-items: center; justify-content: space-between; gap: 16px 24px; flex-wrap: wrap; }
+.bucket-context-empty > div { flex: 1; min-width: min(100%, 250px); }
+.bucket-context-empty h2 { font-size: 16px; margin-bottom: 7px; color: #304e37; }
+.bucket-context-empty p { font-size: 13px; line-height: 1.7; color: #53634c; }
+.bucket-context-empty .secondary { font-size: 12px; min-height: 44px; display: inline-flex; align-items: center; text-decoration: none; }
+.bucket-provider-note { padding: 12px 15px; border: 1px solid #d4dfca; background: #f4f7ef; border-radius: 9px; color: #4c6445; font-size: 12px; line-height: 1.65; margin: 18px 0; }
+@media (max-width: 650px) {
+ .bucket-navigation { padding: 17px 16px 10px; }
+ .bucket-context-heading { gap: 8px; }
+ .bucket-context-heading strong { font-size: 19px; }
+ .bucket-context-heading p { font-size: 11px; }
+ .bucket-section-nav { margin-top: 12px; }
+ .bucket-section-nav a { padding: 9px 11px; }
+ .bucket-context-empty { padding-bottom: 17px; }
+}

@@ -1,0 +1,689 @@
+[
+  {
+    "source_url": "https://www.tiktok.com/@jenseymour0/video/7567417996352834838",
+    "post_id": "7567417996352834838",
+    "status": "completed_with_unknowns",
+    "duration_seconds": 50.735,
+    "media_sha256": "6c6be3d4366164a0cbb7f996e6bcf44c238e5e337b5c1b60fdc8dfb843a2f6e5",
+    "method": {
+      "date": "2026-11-15",
+      "visual_review_completed": true,
+      "continuous_playback": false,
+      "sampled_frames_reviewed": 36,
+      "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+      "additional_targeted_frames_reviewed": 0
+    },
+    "title": "Three days in Ella — Jen Seymour",
+    "creator": "jenseymour0",
+    "trip_duration_days": 3,
+    "scope": "Three days based in Ella; airport transfers not described",
+    "route": [
+      "Ella"
+    ],
+    "stays": [
+      {
+        "property": null,
+        "details": "Accommodation not named"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "items": [
+          {
+            "time_seconds": [
+              0,
+              20.72
+            ],
+            "details": "Three-waterfall tour arranged informally with a tuk-tuk driver. Ravana Falls is named; the other two waterfalls are not. Swimming/rope-swing footage appears, but the precise locations are unresolved.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              20.72,
+              26.32
+            ],
+            "details": "Nine Arch Bridge, sunset drinks at Café Soul overlooking the bridge, then food in Ella at an unnamed restaurant.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "items": [
+          {
+            "time_seconds": [
+              26.32,
+              43.04
+            ],
+            "details": "Little Adam's Peak hike followed by Ravana Pool Club. Creator bought entry without reserving a bed and reports paying about £12 at the time. This is not a current quote.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "items": [
+          {
+            "time_seconds": [
+              43.04,
+              50.08
+            ],
+            "details": "Café hopping and food. Train-track walking is described/shown but is not carried into the proposed itinerary.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      }
+    ],
+    "verification_links": [
+      {
+        "name": "Ravana Pool Club official site",
+        "url": "https://www.ravanapoolclub.com/",
+        "supports": "Venue identity and booking route; no dated availability or present entry price verified"
+      }
+    ],
+    "unknowns": [
+      "Hotel",
+      "Tuk-tuk driver's name/contact and fee",
+      "Names of two waterfalls",
+      "Other cafés/restaurants",
+      "Current pool entry rate"
+    ],
+    "id": "ella",
+    "platform": "TikTok"
+  },
+  {
+    "source_url": "https://www.tiktok.com/@jenseymour0/video/7563685804980194582",
+    "post_id": "7563685804980194582",
+    "status": "completed_with_unknowns",
+    "duration_seconds": 59.976,
+    "media_sha256": "9de0f51068c7388c71f01c2da7796bbfa1e58d387859923a508b2c14c02c81a4",
+    "method": {
+      "date": "2026-11-15",
+      "visual_review_completed": true,
+      "continuous_playback": false,
+      "sampled_frames_reviewed": 36,
+      "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+      "additional_targeted_frames_reviewed": 0
+    },
+    "title": "Three days in Sigiriya — Jen Seymour",
+    "creator": "jenseymour0",
+    "trip_duration_days": 3,
+    "scope": "Regional stop within a 2.5-week Sri Lanka trip; not a complete airport-to-airport itinerary",
+    "route": [
+      "Sigiriya base",
+      "Kandy onward bus"
+    ],
+    "stays": [
+      {
+        "time_seconds": [
+          2.88,
+          10.4
+        ],
+        "details": "Roy's Villa; creator calls it a hostel and says it organised the activities. Property category and room price not stated.",
+        "evidence": "Narration corroborated against sampled frames/captions"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "items": [
+          {
+            "time_seconds": [
+              10.4,
+              16.72
+            ],
+            "details": "Arrival-night cooking class followed by eating the curries prepared. Creator says it was free during her stay; present inclusions not established.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "items": [
+          {
+            "time_seconds": [
+              16.72,
+              25.12
+            ],
+            "details": "Guided cycling through local villages and rice paddies; return to hostel before safari.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              25.12,
+              35.68
+            ],
+            "details": "Hostel jeep pickup for Minneriya National Park safari, described as 4–5 hours. Creator reports seeing more than 50 elephants; visual evidence confirms elephants, not the count.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              35.68,
+              39.52
+            ],
+            "details": "Family-style dinner and quiz night at the hostel.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "items": [
+          {
+            "time_seconds": [
+              39.52,
+              52.8
+            ],
+            "details": "04:30 wake-up for Pidurangala Rock sunrise hike.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              52.8,
+              56.4
+            ],
+            "details": "Relax at hostel, then take bus to Kandy.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      }
+    ],
+    "name_corrections": [
+      {
+        "raw": "Minaria",
+        "normalised": "Minneriya National Park",
+        "basis": "ASR phonetics plus Sri Lanka context; not inferred from elephant images alone"
+      },
+      {
+        "raw": "Pitirangula / Pidrangula",
+        "normalised": "Pidurangala Rock",
+        "basis": "Narration and post description"
+      }
+    ],
+    "verification_links": [
+      {
+        "name": "Roy's Villa official site",
+        "url": "https://roysvilla.com/",
+        "supports": "Sigiriya accommodation with cooking classes, hikes and safari offerings; current rates not checked"
+      }
+    ],
+    "unknowns": [
+      "Room type and price",
+      "Booking platform",
+      "Named safari company beyond Roy's Villa arranging it",
+      "Exact safari fee",
+      "Airport transfers"
+    ],
+    "id": "sigiriya",
+    "platform": "TikTok"
+  },
+  {
+    "source_url": "https://www.instagram.com/reel/Dfulz8xs9MN",
+    "post_id": "Dfulz8xs9MN",
+    "status": "completed_with_unknowns",
+    "duration_seconds": 72.746,
+    "media_sha256": "abd2007156838ccb93f70a225f8b753feda5f5b0f66cb448fcbfa7674c5d703c",
+    "method": {
+      "date": "2026-11-15",
+      "visual_review_completed": true,
+      "continuous_playback": false,
+      "sampled_frames_reviewed": 36,
+      "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+      "additional_targeted_frames_reviewed": 2
+    },
+    "title": "Three-day guided Sri Lanka tour — Kanisha Malhotra",
+    "creator": "kanishamalhotraofficial",
+    "trip_duration_days": 3,
+    "scope": "Compressed multi-region tour promoted in reel",
+    "route": [
+      "Colombo airport",
+      "Sigiriya village experience",
+      "Dambulla Golden Temple",
+      "Kandy overnight",
+      "Tea plantation",
+      "Nanu Oya to Ella train",
+      "Ella overnight",
+      "Nine Arch Bridge",
+      "Udawalawe National Park"
+    ],
+    "days": [
+      {
+        "day": 1,
+        "items": [
+          {
+            "time_seconds": [
+              6.32,
+              12.1
+            ],
+            "details": "Private chauffeur pickup from Colombo airport and transfer to Sigiriya.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              12.1,
+              22.1
+            ],
+            "details": "Village experience with bullock-cart/tractor ride, boat ride and local Sri Lankan food.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              22.1,
+              29.1
+            ],
+            "details": "Dambulla Golden Temple stop, then hotel check-in in Kandy. Hotel unnamed.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "items": [
+          {
+            "time_seconds": [
+              29.1,
+              42.8
+            ],
+            "details": "Tea-plantation visit, Nanu Oya–Ella train, then hotel check-in in Ella. Tea estate and hotel unnamed.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "items": [
+          {
+            "time_seconds": [
+              42.8,
+              46
+            ],
+            "details": "Nine Arch Bridge.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              46,
+              51.8
+            ],
+            "details": "Little Adam's Peak and Ravana Falls were included in the tour, but creator says she could not do them because of a foot injury.",
+            "evidence": "Targeted audio re-transcription plus burned-in caption verified at 48 seconds"
+          },
+          {
+            "time_seconds": [
+              51.8,
+              59.1
+            ],
+            "details": "Udawalawe National Park elephant safari.",
+            "evidence": "Audio recheck plus on-screen park name and elephant/safari imagery"
+          }
+        ]
+      }
+    ],
+    "booking": {
+      "platform": "GetYourGuide",
+      "evidence": "Creator caption explicitly says booked via GetYourGuide; app/product card visible",
+      "product_title": "Colombo: 3-Day All-Inclusive Tour with Ella Train & Safari",
+      "product_url": null,
+      "title_time_seconds": [
+        65,
+        71
+      ],
+      "historical_displayed_price": {
+        "amount": 19718,
+        "currency": "INR",
+        "basis": "Per person as displayed in filmed product card; no present price/availability verified"
+      },
+      "listing_claims": "Card advertises hotels, private driver-guide and pickup; not independently verified for a dated booking",
+      "sponsorship_status": "Promotion visible; paid sponsorship not established"
+    },
+    "asr_notes": [
+      "Initial Hindi ASR missed approximately 34–64 seconds. Targeted re-transcription recovered this passage and was checked against burned-in English captions.",
+      "The translated ASR's 'Ella Ponchka Hotel' is not a hotel name: the caption at 42 seconds says 'After reaching there, you check in at the hotel'. Both hotels remain unknown."
+    ],
+    "unknowns": [
+      "Exact Kandy/Ella hotels",
+      "Tea estate",
+      "Current matching GetYourGuide product URL/availability/price",
+      "Airport return timing",
+      "Driver or local tour operator name"
+    ],
+    "planning_assessment": "A fast tour with multiple long transfers; do not present as a relaxed three-day default or a confirmed flight-compatible schedule.",
+    "id": "kanisha",
+    "platform": "Instagram"
+  },
+  {
+    "source_url": "https://www.instagram.com/reel/DYJiRq2qMuA",
+    "post_id": "DYJiRq2qMuA",
+    "status": "completed_with_unknowns",
+    "duration_seconds": 80.292,
+    "media_sha256": "bc45a644a88f8d8ec9f29b2ad6e751a27fadb6df088457625c33f6e7e3064949",
+    "method": {
+      "date": "2026-11-15",
+      "visual_review_completed": true,
+      "continuous_playback": false,
+      "sampled_frames_reviewed": 36,
+      "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+      "additional_targeted_frames_reviewed": 1
+    },
+    "title": "Ahangama and south-coast friends trip — Shreya Valecha",
+    "creator": "shreyavalecha",
+    "trip_duration_days": [
+      3,
+      4
+    ],
+    "scope": "Friends/beach/nightlife itinerary; fourth day explicitly included in narration",
+    "route": [
+      "Colombo arrival",
+      "Ahangama base",
+      "Midigama beach outing",
+      "Hiriketiya nightlife outing",
+      "Galle day trip"
+    ],
+    "stays": [
+      {
+        "time_seconds": [
+          11.36,
+          14.48
+        ],
+        "details": "Airbnb with breakfast and a pool suggested/shown; listing/property name and price not provided.",
+        "evidence": "Narration corroborated against sampled frames/captions"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "items": [
+          {
+            "time_seconds": [
+              6.76,
+              11.36
+            ],
+            "details": "Arrive in Colombo and travel to Ahangama.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              14.48,
+              22.6
+            ],
+            "details": "Late lunch/live music at Kai, stay until sunset, then beach walk.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              22.6,
+              28.2
+            ],
+            "details": "Hotel de Uncle's for karaoke if it is Thursday, as described at filming.",
+            "evidence": "Narration plus readable Hotel de Uncle's sign at about 23 seconds. Current event schedule not verified."
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "items": [
+          {
+            "time_seconds": [
+              28.24,
+              35.4
+            ],
+            "details": "Slow breakfast and beach beds at Paradise Cove; food and beach time.",
+            "evidence": "Narration and Paradise Cove sign; official site identifies Midigama location"
+          },
+          {
+            "time_seconds": [
+              35.4,
+              48.88
+            ],
+            "details": "Evening Hiriketiya outing: creator describes a Secret Jungle Party bus pickup from Centre Point Hotel. She recommends the bus experience more than the party itself. Mentioned 19:00–23:30 schedule is historical and unverified today.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "items": [
+          {
+            "time_seconds": [
+              48.88,
+              59.32
+            ],
+            "details": "Galle lanes, cafés, boutiques, evening lights and gelato; gelato shop unnamed.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              59.32,
+              65.2
+            ],
+            "details": "Suggests The Doctor's House, Hakuna Matata or Crust for evening plans, or relaxing at the villa. These are options, not evidence of visiting all three.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "items": [
+          {
+            "time_seconds": [
+              65.2,
+              71.04
+            ],
+            "details": "Spa/deep-tissue massage. A sign is visible around 68 seconds but its business identity/spelling is not confidently resolved; do not substitute Spa Ceylon (a separate Galle storefront shown earlier).",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          },
+          {
+            "time_seconds": [
+              71.04,
+              77.76
+            ],
+            "details": "Shopping at Kai Boutique and Cactus, as named in narration.",
+            "evidence": "Narration corroborated against sampled frames/captions"
+          }
+        ]
+      }
+    ],
+    "verification_links": [
+      {
+        "name": "Hotel de Uncle's Ahangama official site",
+        "url": "https://unclescolombo.lk/ahangama/",
+        "supports": "Venue identity and location; current karaoke schedule not verified"
+      },
+      {
+        "name": "Paradise Cove Midigama official site",
+        "url": "https://paradisecovemidigama.com/",
+        "supports": "Beach lounge/restaurant identity and Midigama location; day-bed availability not checked"
+      }
+    ],
+    "unknowns": [
+      "Airbnb listing and cost",
+      "Exact spa identity",
+      "Gelato shop",
+      "Current party-bus pickup/schedule/ticket price",
+      "Transport fares and drive times"
+    ],
+    "id": "shreya",
+    "platform": "Instagram"
+  },
+  {
+    "id": "fitnomads-repeat",
+    "source_url": "https://www.instagram.com/p/Dfo4fPMyHpo/",
+    "post_id": "Dfo4fPMyHpo",
+    "platform": "Instagram",
+    "creator": "fit_nomads_",
+    "title": "How fit_nomads_ would plan Sri Lanka again",
+    "scope": "South-coast bases, food stops, safari alternatives, Ella–Kandy train and Sigiriya",
+    "status": "completed_with_unknowns",
+    "duration_seconds": 103.69746,
+    "method": {
+      "date": "2026-11-17",
+      "visual_review_completed": true,
+      "continuous_playback": false,
+      "sampled_frames_reviewed": 32,
+      "additional_targeted_frames_reviewed": 6,
+      "speech": "Full audio transcribed; place-name cards checked against sampled frames",
+      "media_sha256": "b66e116dbdefb692c190f0105b25f08315e87d68920fba1bd50913d9b4689c1a"
+    },
+    "days": [
+      {
+        "day": 0,
+        "items": [
+          {
+            "details": "Arrival and Colombo: The creator would skip a Colombo stay and head south. If arriving late, they recommend The Villa by Contemporary Ceylon, whose name is visible at 19s. Its exact location and airport transfer time still need checking.",
+            "time_seconds": [
+              8,
+              23
+            ]
+          },
+          {
+            "details": "One south-coast base, 3–4 nights: Choose Ahangama, Mirissa or Weligama as one base and day-trip to the other two. Ahangama is the creator’s favourite; this is a preference, not a requirement to change hotels three times.",
+            "time_seconds": [
+              24,
+              37
+            ]
+          },
+          {
+            "details": "Hiriketiya: at least three nights: Stay at least three nights; the creator recommends surfing and the food scene.",
+            "time_seconds": [
+              42,
+              58
+            ]
+          },
+          {
+            "details": "Hiriketiya crowds and season: The creator describes January–March as busy and prefers April–June. Recheck weather, sea conditions and venue opening seasons for your dates; quieter months are not automatically better for every activity.",
+            "time_seconds": [
+              59,
+              68
+            ]
+          },
+          {
+            "details": "Yala or Wilpattu safari: The creator suggests Yala outside peak season and Wilpattu during peak season. Treat them as alternatives. Wilpattu is in a different region, so check transfers before adding it to a south-coast route.",
+            "time_seconds": [
+              69,
+              74
+            ]
+          },
+          {
+            "details": "Ella: at least two nights: The narration says at least two nights; the on-screen card says 2–3 nights. Nine Arch Bridge is a named stop.",
+            "time_seconds": [
+              75,
+              80
+            ]
+          },
+          {
+            "details": "Train from Ella to Kandy: Take the creator’s recommended Ella–Kandy train, then continue towards Sigiriya. The reel does not establish a current departure time, fare, reserved-seat availability or the onward transfer; verify these separately.",
+            "time_seconds": [
+              80,
+              86
+            ]
+          },
+          {
+            "details": "Driver arrangement and contact card: The creator suggests arranging subsequent journeys with a driver met through an airport Uber ride. A card for Ashan Cab Service appears at about 99s. Check the original card, current contact details, agreed price and terms yourself; this is not a driver vetted or booked by ReelTrip.",
+            "time_seconds": [
+              87,
+              103
+            ]
+          }
+        ]
+      }
+    ],
+    "practical_tips": [
+      {
+        "topic": "Route",
+        "subject": "Arrival and Colombo",
+        "details": "The creator would skip a Colombo stay and head south. If arriving late, they recommend The Villa by Contemporary Ceylon, whose name is visible at 19s. Its exact location and airport transfer time still need checking.",
+        "time_seconds": [
+          8,
+          23
+        ],
+        "quote": "First, I would not stay in Colombo because it's super busy and there just isn't much to do there.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Stay length",
+        "subject": "One south-coast base, 3–4 nights",
+        "details": "Choose Ahangama, Mirissa or Weligama as one base and day-trip to the other two. Ahangama is the creator’s favourite; this is a preference, not a requirement to change hotels three times.",
+        "time_seconds": [
+          24,
+          37
+        ],
+        "quote": "Just pick one and day trip to the others because they're all super close together. Stay for about three to four nights.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Stay length",
+        "subject": "Hiriketiya: at least three nights",
+        "details": "Stay at least three nights; the creator recommends surfing and the food scene.",
+        "time_seconds": [
+          42,
+          58
+        ],
+        "quote": "Honestly, stay as long as you can here, but at least three nights.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Timing",
+        "subject": "Hiriketiya crowds and season",
+        "details": "The creator describes January–March as busy and prefers April–June. Recheck weather, sea conditions and venue opening seasons for your dates; quieter months are not automatically better for every activity.",
+        "time_seconds": [
+          59,
+          68
+        ],
+        "quote": "it is super small and super busy in peak season from January through to March. So we would actually recommend going in April through to June.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Route",
+        "subject": "Yala or Wilpattu safari",
+        "details": "The creator suggests Yala outside peak season and Wilpattu during peak season. Treat them as alternatives. Wilpattu is in a different region, so check transfers before adding it to a south-coast route.",
+        "time_seconds": [
+          69,
+          74
+        ],
+        "quote": "Yala is great if you're not going in peak season, but if you are, we would definitely choose Wilpattu.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Stay length",
+        "subject": "Ella: at least two nights",
+        "details": "The narration says at least two nights; the on-screen card says 2–3 nights. Nine Arch Bridge is a named stop.",
+        "time_seconds": [
+          75,
+          80
+        ],
+        "quote": "2-3 nights in Ella; Nine arches bridge; Train to Kandy",
+        "basis": "screen_text"
+      },
+      {
+        "topic": "Transport",
+        "subject": "Train from Ella to Kandy",
+        "details": "Take the creator’s recommended Ella–Kandy train, then continue towards Sigiriya. The reel does not establish a current departure time, fare, reserved-seat availability or the onward transfer; verify these separately.",
+        "time_seconds": [
+          80,
+          86
+        ],
+        "quote": "You can take the famous train from Ella all the way to Kandy, finishing up your trip in Sigiriya.",
+        "basis": "speech"
+      },
+      {
+        "topic": "Transport",
+        "subject": "Driver arrangement and contact card",
+        "details": "The creator suggests arranging subsequent journeys with a driver met through an airport Uber ride. A card for Ashan Cab Service appears at about 99s. Check the original card, current contact details, agreed price and terms yourself; this is not a driver vetted or booked by ReelTrip.",
+        "time_seconds": [
+          87,
+          103
+        ],
+        "quote": "if you don't want to hire a private driver, at the airport you can order an Uber and then get the Uber driver's number",
+        "basis": "speech"
+      }
+    ],
+    "unknowns": [
+      "The creator’s seasonal preferences do not establish current weather, surf conditions or opening dates.",
+      "Train schedules, tickets, transfers and driver availability have not been checked.",
+      "Restaurant and hotel names were checked against video text where visible; exact provider listings, branches and reservation availability are unverified.",
+      "The reel does not give a total trip duration or a current transport budget.",
+      "The spoken hotel name is abbreviated; the frame identifies The Villa by Contemporary Ceylon."
+    ]
+  }
+]

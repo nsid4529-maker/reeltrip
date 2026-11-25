@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://reeltrip-travel-studio.earthylark68.chatgpt.site/sitemap.xml

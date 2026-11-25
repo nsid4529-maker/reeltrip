@@ -1,0 +1,6 @@
+.reel-app :is(a,button,input,select,textarea,summary):focus-visible,.bucket-agent :is(a,button,input,select,textarea,summary):focus-visible{outline:3px solid #326750;outline-offset:3px}
+.reel-app .fine-print,.reel-app .reservation-intro,.reel-app .booking-search-note,.reel-app .affiliate-note,.reel-app .creator,.reel-app .breadcrumb{color:#53664f}
+.reel-app button:disabled,.bucket-agent button:disabled{opacity:1;color:#53604f;background:#e4e9dd;border-color:#a8b5a1;cursor:not-allowed;box-shadow:none}
+.reel-app .secondary{border-color:#80937d;color:#2b5140;background:#fffef9}
+.reel-app a,.reel-app button,.bucket-agent a,.bucket-agent button{touch-action:manipulation}
+@media(prefers-reduced-motion:reduce){.reel-app *,.bucket-agent *{scroll-behavior:auto!important;transition:none!important;animation:none!important}}

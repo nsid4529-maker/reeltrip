@@ -1,0 +1,7 @@
+.git
+.env*
+.dev.vars
+__pycache__
+*.pyc
+*.sqlite*
+catalog

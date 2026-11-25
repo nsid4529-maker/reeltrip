@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.instagram.com/p/DeSbT_lEZGL/",
+  "creator": "dylb.ytes",
+  "category": "ui_design_reference",
+  "title": "UI tools for building websites",
+  "duration_seconds": 29.993375,
+  "reviewed_at": "2026-11-15",
+  "sha256": "be9cae803f93b1dcbf1a70fef6e1c4eee88b90a131d76e8d25c3db2e4cf84d62",
+  "method": {
+    "download": "Existing Instagram direct resolver; source identity checked",
+    "full_video_decode_passed": true,
+    "full_audio_decode_passed": true,
+    "visual_review_completed": true,
+    "sampled_frames": 36,
+    "speech_transcription": "completed; checked against sampled frames; proper names resolved from on-screen text and official sites"
+  },
+  "recommendations": [
+    {
+      "name": "Watermelon UI",
+      "at_seconds": 6.3,
+      "url": "https://ui.watermelon.sh/",
+      "role": "Reusable React components and visual starting points"
+    },
+    {
+      "name": "Manus",
+      "at_seconds": 12.1,
+      "url": "https://manus.im/",
+      "role": "AI app builder; reel also discusses page analytics and SEO"
+    },
+    {
+      "name": "Cult UI",
+      "at_seconds": 20.4,
+      "url": "https://www.cult-ui.com/",
+      "role": "Distinctive components and interaction design"
+    },
+    {
+      "name": "Skiper UI",
+      "at_seconds": 23.8,
+      "url": "https://skiper-ui.com/",
+      "role": "Animated components; on-screen spelling differs from verified official site"
+    }
+  ],
+  "application": "Applied as design inspiration: reusable components, workflow controls, restrained motion, source-review status, browser-local activity counters and SEO/share metadata. No claim of installed libraries or connected Manus service.",
+  "travel_places": []
+}

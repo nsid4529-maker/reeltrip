@@ -1,0 +1,47 @@
+{
+  "source_url": "https://www.tiktok.com/@jenseymour0/video/7563685804980194582",
+  "platform": "tiktok",
+  "method": "tikwm_public_resolver",
+  "acquired_at": "2026-11-15T18:16:02.131802+00:00",
+  "sha256": "9de0f51068c7388c71f01c2da7796bbfa1e58d387859923a508b2c14c02c81a4",
+  "bytes": 19420318,
+  "duration_seconds": 59.976,
+  "streams": [
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    },
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 576,
+      "height": 1024
+    }
+  ],
+  "audio_present": true,
+  "validation": {
+    "probe_passed": true,
+    "full_video_decode_passed": false,
+    "full_audio_decode_passed": false
+  },
+  "source_association": "third_party_resolver_id_checked",
+  "provider": {
+    "name": "TikWM",
+    "video_id": "7563685804980194582",
+    "author_handle": "jenseymour0",
+    "title": "How we spent 3 days in Sigiriya, Sri Lanka \ud83c\uddf1\ud83c\uddf0  Stayed at the best place @roysvilla \ud83c\udfe8 Activities - cooking class - bike ride  - elephant safari  - sunrise hike to Pidrangula Rock  The best 3 days in our first real stop of the 5 month travel and 2.5 weeks in Sri Lanka \u2708\ufe0f #srilanka #uktravel #traveltiktok #seasia #travelling  @Hostelworld  @Skyscanner ",
+    "resolved_at": "2026-11-15T18:14:35.981513+00:00",
+    "metrics": {
+      "play_count": 59431,
+      "digg_count": 908,
+      "comment_count": 25,
+      "share_count": 428,
+      "collect_count": 1024
+    },
+    "metrics_source": "third_party; cache age unknown",
+    "requested_quality": "standard",
+    "browser_credentials_used": false
+  },
+  "analysis_started": false,
+  "gemini_inline_size_compatible": false
+}

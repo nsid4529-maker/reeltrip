@@ -1,0 +1,124 @@
+{
+  "source_url": "https://www.tiktok.com/@jenseymour0/video/7563685804980194582",
+  "post_id": "7563685804980194582",
+  "status": "completed_with_unknowns",
+  "duration_seconds": 59.976,
+  "media_sha256": "9de0f51068c7388c71f01c2da7796bbfa1e58d387859923a508b2c14c02c81a4",
+  "method": {
+    "date": "2026-11-15",
+    "visual_review_completed": true,
+    "continuous_playback": false,
+    "sampled_frames_reviewed": 36,
+    "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+    "additional_targeted_frames_reviewed": 0
+  },
+  "title": "Three days in Sigiriya — Jen Seymour",
+  "creator": "jenseymour0",
+  "trip_duration_days": 3,
+  "scope": "Regional stop within a 2.5-week Sri Lanka trip; not a complete airport-to-airport itinerary",
+  "route": [
+    "Sigiriya base",
+    "Kandy onward bus"
+  ],
+  "stays": [
+    {
+      "time_seconds": [
+        2.88,
+        10.4
+      ],
+      "details": "Roy's Villa; creator calls it a hostel and says it organised the activities. Property category and room price not stated.",
+      "evidence": "Narration corroborated against sampled frames/captions"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "time_seconds": [
+            10.4,
+            16.72
+          ],
+          "details": "Arrival-night cooking class followed by eating the curries prepared. Creator says it was free during her stay; present inclusions not established.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "time_seconds": [
+            16.72,
+            25.12
+          ],
+          "details": "Guided cycling through local villages and rice paddies; return to hostel before safari.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            25.12,
+            35.68
+          ],
+          "details": "Hostel jeep pickup for Minneriya National Park safari, described as 4–5 hours. Creator reports seeing more than 50 elephants; visual evidence confirms elephants, not the count.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            35.68,
+            39.52
+          ],
+          "details": "Family-style dinner and quiz night at the hostel.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "time_seconds": [
+            39.52,
+            52.8
+          ],
+          "details": "04:30 wake-up for Pidurangala Rock sunrise hike.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            52.8,
+            56.4
+          ],
+          "details": "Relax at hostel, then take bus to Kandy.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    }
+  ],
+  "name_corrections": [
+    {
+      "raw": "Minaria",
+      "normalised": "Minneriya National Park",
+      "basis": "ASR phonetics plus Sri Lanka context; not inferred from elephant images alone"
+    },
+    {
+      "raw": "Pitirangula / Pidrangula",
+      "normalised": "Pidurangala Rock",
+      "basis": "Narration and post description"
+    }
+  ],
+  "verification_links": [
+    {
+      "name": "Roy's Villa official site",
+      "url": "https://roysvilla.com/",
+      "supports": "Sigiriya accommodation with cooking classes, hikes and safari offerings; current rates not checked"
+    }
+  ],
+  "unknowns": [
+    "Room type and price",
+    "Booking platform",
+    "Named safari company beyond Roy's Villa arranging it",
+    "Exact safari fee",
+    "Airport transfers"
+  ]
+}

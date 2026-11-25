@@ -1,0 +1,91 @@
+{
+  "source_url": "https://www.tiktok.com/@jenseymour0/video/7567417996352834838",
+  "post_id": "7567417996352834838",
+  "status": "completed_with_unknowns",
+  "duration_seconds": 50.735,
+  "media_sha256": "6c6be3d4366164a0cbb7f996e6bcf44c238e5e337b5c1b60fdc8dfb843a2f6e5",
+  "method": {
+    "date": "2026-11-15",
+    "visual_review_completed": true,
+    "continuous_playback": false,
+    "sampled_frames_reviewed": 36,
+    "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+    "additional_targeted_frames_reviewed": 0
+  },
+  "title": "Three days in Ella — Jen Seymour",
+  "creator": "jenseymour0",
+  "trip_duration_days": 3,
+  "scope": "Three days based in Ella; airport transfers not described",
+  "route": [
+    "Ella"
+  ],
+  "stays": [
+    {
+      "property": null,
+      "details": "Accommodation not named"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "time_seconds": [
+            0,
+            20.72
+          ],
+          "details": "Three-waterfall tour arranged informally with a tuk-tuk driver. Ravana Falls is named; the other two waterfalls are not. Swimming/rope-swing footage appears, but the precise locations are unresolved.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            20.72,
+            26.32
+          ],
+          "details": "Nine Arch Bridge, sunset drinks at Café Soul overlooking the bridge, then food in Ella at an unnamed restaurant.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "time_seconds": [
+            26.32,
+            43.04
+          ],
+          "details": "Little Adam's Peak hike followed by Ravana Pool Club. Creator bought entry without reserving a bed and reports paying about £12 at the time. This is not a current quote.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "time_seconds": [
+            43.04,
+            50.08
+          ],
+          "details": "Café hopping and food. Train-track walking is described/shown but is not carried into the proposed itinerary.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    }
+  ],
+  "verification_links": [
+    {
+      "name": "Ravana Pool Club official site",
+      "url": "https://www.ravanapoolclub.com/",
+      "supports": "Venue identity and booking route; no dated availability or present entry price verified"
+    }
+  ],
+  "unknowns": [
+    "Hotel",
+    "Tuk-tuk driver's name/contact and fee",
+    "Names of two waterfalls",
+    "Other cafés/restaurants",
+    "Current pool entry rate"
+  ]
+}

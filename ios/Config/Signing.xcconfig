@@ -1,0 +1,10 @@
+// Set your Apple team in Xcode before installing on an iPhone.
+DEVELOPMENT_TEAM = 
+// Development identifiers; Xcode will register them with your selected team.
+REELTRIP_BUNDLE_PREFIX = com.example.reeltrip
+REELTRIP_APP_GROUP = group.$(REELTRIP_BUNDLE_PREFIX)
+CODE_SIGN_STYLE = Automatic
+SWIFT_VERSION = 5.0
+IPHONEOS_DEPLOYMENT_TARGET = 16.0
+MARKETING_VERSION = 0.4.0
+CURRENT_PROJECT_VERSION = 6

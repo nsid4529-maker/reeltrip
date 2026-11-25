@@ -1,0 +1,51 @@
+{
+  "source_url": "https://www.instagram.com/reel/Dfulz8xs9MN",
+  "platform": "instagram",
+  "method": "instagram_direct",
+  "acquired_at": "2026-11-15T18:17:29.416505+00:00",
+  "sha256": "abd2007156838ccb93f70a225f8b753feda5f5b0f66cb448fcbfa7674c5d703c",
+  "bytes": 21708708,
+  "duration_seconds": 72.746,
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio"
+    }
+  ],
+  "audio_present": true,
+  "validation": {
+    "probe_passed": true,
+    "full_video_decode_passed": true,
+    "full_audio_decode_passed": true
+  },
+  "source_association": "instagram_returned_shortcode_and_numeric_id_checked",
+  "provider": {
+    "name": "Instagram direct",
+    "method": "instagram_anonymous_web_query",
+    "source_shortcode": "Dfulz8xs9MN",
+    "media_id": "4030325014215774989",
+    "author_handle": "kanishamalhotraofficial",
+    "caption": "3 days, countless memories, and the best of Sri Lanka! \ud83c\uddf1\ud83c\uddf0\ud83c\udf34 From Sigiriya to Ella\u2019s iconic train journey and an elephant safari \u2014 here\u2019s how to explore Sri Lanka in just 3 days!\n\nSave this itinerary for your next trip. \u2764\ufe0f\n\nBooked via GetYourGuide! \u2708\ufe0f\n\n@getyourguide\n@getyourguidecommunity\n#getyourguidecommunity\n#getyourguide\n#Srilanka #Travelgram #traveldiaries",
+    "taken_at": 1794672310,
+    "metrics": {
+      "like_count": 4885,
+      "comment_count": 14
+    },
+    "metrics_source": "Instagram response at retrieval; absent counts remain unknown",
+    "reported_has_audio": true,
+    "resolved_at": "2026-11-15T18:17:23.433178+00:00",
+    "source_identity_checked": true,
+    "browser_credentials_used": false,
+    "third_party_downloader_used": false,
+    "official_api": false,
+    "quality": "largest_declared_progressive_variant_or_first_when_unspecified"
+  },
+  "analysis_started": false,
+  "gemini_inline_size_compatible": false
+}

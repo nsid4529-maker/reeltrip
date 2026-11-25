@@ -1,0 +1,2 @@
+# The hosted service uses Python 3.12's standard library only.
+# System packages installed by Dockerfile: ffmpeg (including ffprobe), curl, ca-certificates.

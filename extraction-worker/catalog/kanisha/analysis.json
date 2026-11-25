@@ -1,0 +1,132 @@
+{
+  "source_url": "https://www.instagram.com/reel/Dfulz8xs9MN",
+  "post_id": "Dfulz8xs9MN",
+  "status": "completed_with_unknowns",
+  "duration_seconds": 72.746,
+  "media_sha256": "abd2007156838ccb93f70a225f8b753feda5f5b0f66cb448fcbfa7674c5d703c",
+  "method": {
+    "date": "2026-11-15",
+    "visual_review_completed": true,
+    "continuous_playback": false,
+    "sampled_frames_reviewed": 36,
+    "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+    "additional_targeted_frames_reviewed": 2
+  },
+  "title": "Three-day guided Sri Lanka tour — Kanisha Malhotra",
+  "creator": "kanishamalhotraofficial",
+  "trip_duration_days": 3,
+  "scope": "Compressed multi-region tour promoted in reel",
+  "route": [
+    "Colombo airport",
+    "Sigiriya village experience",
+    "Dambulla Golden Temple",
+    "Kandy overnight",
+    "Tea plantation",
+    "Nanu Oya to Ella train",
+    "Ella overnight",
+    "Nine Arch Bridge",
+    "Udawalawe National Park"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "time_seconds": [
+            6.32,
+            12.1
+          ],
+          "details": "Private chauffeur pickup from Colombo airport and transfer to Sigiriya.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            12.1,
+            22.1
+          ],
+          "details": "Village experience with bullock-cart/tractor ride, boat ride and local Sri Lankan food.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            22.1,
+            29.1
+          ],
+          "details": "Dambulla Golden Temple stop, then hotel check-in in Kandy. Hotel unnamed.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "time_seconds": [
+            29.1,
+            42.8
+          ],
+          "details": "Tea-plantation visit, Nanu Oya–Ella train, then hotel check-in in Ella. Tea estate and hotel unnamed.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "time_seconds": [
+            42.8,
+            46
+          ],
+          "details": "Nine Arch Bridge.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            46,
+            51.8
+          ],
+          "details": "Little Adam's Peak and Ravana Falls were included in the tour, but creator says she could not do them because of a foot injury.",
+          "evidence": "Targeted audio re-transcription plus burned-in caption verified at 48 seconds"
+        },
+        {
+          "time_seconds": [
+            51.8,
+            59.1
+          ],
+          "details": "Udawalawe National Park elephant safari.",
+          "evidence": "Audio recheck plus on-screen park name and elephant/safari imagery"
+        }
+      ]
+    }
+  ],
+  "booking": {
+    "platform": "GetYourGuide",
+    "evidence": "Creator caption explicitly says booked via GetYourGuide; app/product card visible",
+    "product_title": "Colombo: 3-Day All-Inclusive Tour with Ella Train & Safari",
+    "product_url": null,
+    "title_time_seconds": [
+      65,
+      71
+    ],
+    "historical_displayed_price": {
+      "amount": 19718,
+      "currency": "INR",
+      "basis": "Per person as displayed in filmed product card; no present price/availability verified"
+    },
+    "listing_claims": "Card advertises hotels, private driver-guide and pickup; not independently verified for a dated booking",
+    "sponsorship_status": "Promotion visible; paid sponsorship not established"
+  },
+  "asr_notes": [
+    "Initial Hindi ASR missed approximately 34–64 seconds. Targeted re-transcription recovered this passage and was checked against burned-in English captions.",
+    "The translated ASR's 'Ella Ponchka Hotel' is not a hotel name: the caption at 42 seconds says 'After reaching there, you check in at the hotel'. Both hotels remain unknown."
+  ],
+  "unknowns": [
+    "Exact Kandy/Ella hotels",
+    "Tea estate",
+    "Current matching GetYourGuide product URL/availability/price",
+    "Airport return timing",
+    "Driver or local tour operator name"
+  ],
+  "planning_assessment": "A fast tour with multiple long transfers; do not present as a relaxed three-day default or a confirmed flight-compatible schedule."
+}

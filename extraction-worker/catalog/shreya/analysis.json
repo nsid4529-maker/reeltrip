@@ -1,0 +1,152 @@
+{
+  "source_url": "https://www.instagram.com/reel/DYJiRq2qMuA",
+  "post_id": "DYJiRq2qMuA",
+  "status": "completed_with_unknowns",
+  "duration_seconds": 80.292,
+  "media_sha256": "bc45a644a88f8d8ec9f29b2ad6e751a27fadb6df088457625c33f6e7e3064949",
+  "method": {
+    "date": "2026-11-15",
+    "visual_review_completed": true,
+    "continuous_playback": false,
+    "sampled_frames_reviewed": 36,
+    "speech": "Audio processed with faster-whisper small; transcript checked with visual captions when available",
+    "additional_targeted_frames_reviewed": 1
+  },
+  "title": "Ahangama and south-coast friends trip — Shreya Valecha",
+  "creator": "shreyavalecha",
+  "trip_duration_days": [
+    3,
+    4
+  ],
+  "scope": "Friends/beach/nightlife itinerary; fourth day explicitly included in narration",
+  "route": [
+    "Colombo arrival",
+    "Ahangama base",
+    "Midigama beach outing",
+    "Hiriketiya nightlife outing",
+    "Galle day trip"
+  ],
+  "stays": [
+    {
+      "time_seconds": [
+        11.36,
+        14.48
+      ],
+      "details": "Airbnb with breakfast and a pool suggested/shown; listing/property name and price not provided.",
+      "evidence": "Narration corroborated against sampled frames/captions"
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "time_seconds": [
+            6.76,
+            11.36
+          ],
+          "details": "Arrive in Colombo and travel to Ahangama.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            14.48,
+            22.6
+          ],
+          "details": "Late lunch/live music at Kai, stay until sunset, then beach walk.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            22.6,
+            28.2
+          ],
+          "details": "Hotel de Uncle's for karaoke if it is Thursday, as described at filming.",
+          "evidence": "Narration plus readable Hotel de Uncle's sign at about 23 seconds. Current event schedule not verified."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "time_seconds": [
+            28.24,
+            35.4
+          ],
+          "details": "Slow breakfast and beach beds at Paradise Cove; food and beach time.",
+          "evidence": "Narration and Paradise Cove sign; official site identifies Midigama location"
+        },
+        {
+          "time_seconds": [
+            35.4,
+            48.88
+          ],
+          "details": "Evening Hiriketiya outing: creator describes a Secret Jungle Party bus pickup from Centre Point Hotel. She recommends the bus experience more than the party itself. Mentioned 19:00–23:30 schedule is historical and unverified today.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "time_seconds": [
+            48.88,
+            59.32
+          ],
+          "details": "Galle lanes, cafés, boutiques, evening lights and gelato; gelato shop unnamed.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            59.32,
+            65.2
+          ],
+          "details": "Suggests The Doctor's House, Hakuna Matata or Crust for evening plans, or relaxing at the villa. These are options, not evidence of visiting all three.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "items": [
+        {
+          "time_seconds": [
+            65.2,
+            71.04
+          ],
+          "details": "Spa/deep-tissue massage. A sign is visible around 68 seconds but its business identity/spelling is not confidently resolved; do not substitute Spa Ceylon (a separate Galle storefront shown earlier).",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        },
+        {
+          "time_seconds": [
+            71.04,
+            77.76
+          ],
+          "details": "Shopping at Kai Boutique and Cactus, as named in narration.",
+          "evidence": "Narration corroborated against sampled frames/captions"
+        }
+      ]
+    }
+  ],
+  "verification_links": [
+    {
+      "name": "Hotel de Uncle's Ahangama official site",
+      "url": "https://unclescolombo.lk/ahangama/",
+      "supports": "Venue identity and location; current karaoke schedule not verified"
+    },
+    {
+      "name": "Paradise Cove Midigama official site",
+      "url": "https://paradisecovemidigama.com/",
+      "supports": "Beach lounge/restaurant identity and Midigama location; day-bed availability not checked"
+    }
+  ],
+  "unknowns": [
+    "Airbnb listing and cost",
+    "Exact spa identity",
+    "Gelato shop",
+    "Current party-bus pickup/schedule/ticket price",
+    "Transport fares and drive times"
+  ]
+}
